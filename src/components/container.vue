@@ -21,6 +21,7 @@
 <script>
 // import Layout from './layout.vue'
 export default {
+
   // components: { Layout },
   name: 'container',
   data () {
